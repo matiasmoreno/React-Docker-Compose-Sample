@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Sample project build in React with docker-compose
+
+## build & fire up the container locally
+
+`docker-compose build`
+`docker-compose up`
+
+## Stop container
+
+`docker-compose stop`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+# React default README
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
