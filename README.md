@@ -1,4 +1,4 @@
-# Sample project build in React with docker-compose
+# Sample project built in React with docker-compose
 
 ## build & fire up the container locally
 
